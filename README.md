@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad,9b30ff,4b0082&height=220&section=header&text=Cigarro%20de%20Luz&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20%E2%9A%A1%20Powered%20by%20AI&descAlignY=58&descColor=d9b3ff&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B30FF&center=true&vCenter=true&width=600&lines=🤖+Disponível+para+novos+projetos;Não+sei+quase+nada+de+código...;...mas+a+IA+faz+por+mim+😅;Construo+produtos+reais+com+IA!" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9B30FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Powered+by+AI;devComIA+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
