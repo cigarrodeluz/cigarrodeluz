@@ -20,18 +20,18 @@ Não tenho mérito nenhum. Sério. O mérito é todo das IAs que me aguentam faz
 
 Acredito que o futuro do desenvolvimento é **saber fazer as perguntas certas** — e às vezes nem isso eu acerto, mas a IA entende mesmo assim. 😅
 
-<sub>* Este README também foi escrito com IA. Assim como o portfólio inteiro. Eu literalmente não escrevi uma linha sequer. Obrigado, robôs. 🤖</sub>
+<sub>* Este README também foi escrito com IA. Assim como o portfólio inteiro. Eu literalmente não escrevi uma linha sequer. Obrigado. 🤖</sub>
 
 ---
 
 ## ⚡ Quick Facts
 
 ```
-▸ Uso mais de 15 ferramentas de IA (e ainda assim erro)
-▸ Experiência com Supabase & PostgreSQL (experiência = a IA fez)
+▸ Uso mais de 15 ferramentas de IA 
+▸ Experiência com Supabase & PostgreSQL 
 ▸ Deploy em Vercel, Netlify, Railway & Hostinger
-▸ Versionamento com GitHub (git push é o máximo que sei)
-▸ Construo projetos do zero com IA (do zero mesmo, não sei nada)
+▸ Versionamento com GitHub 
+▸ Construo projetos do zero com IA 
 ▸ Sempre aprendendo e me virando 🚀
 ```
 
@@ -99,7 +99,7 @@ Landing page, dashboard e login feitos com IA. Dashboard consome dados do Supaba
 
 ---
 
-## 💼 O que eu Faço (com ajuda dos robôs)
+## 💼 O que eu Faço (com ajuda de IA)
 
 ```
 ✦  Desenvolvimento Web com IA
